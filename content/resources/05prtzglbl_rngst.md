@@ -4,6 +4,8 @@ description: ''
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/ce3bb6a9ad2bb915be6ab28c5ccb7d53_05prtzglbl_rngst.pdf
 file_size: 422898
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

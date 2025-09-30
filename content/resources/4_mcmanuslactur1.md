@@ -4,6 +4,8 @@ description: Lecture presentation courtesy of Hugh McManus. Used with permission
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/7022e9b11d9a3441401b2b9bfa0d9e92_4_mcmanuslactur1.pdf
 file_size: 2496508
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: Lecture presentation.
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/a7e38df6fdeceb131896a785ecf9f378_11_daebc2.pdf
 file_size: 1141273
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
