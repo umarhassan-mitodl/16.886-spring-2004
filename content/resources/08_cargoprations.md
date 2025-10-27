@@ -4,8 +4,6 @@ description: ''
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/432c45da1f245c6196b254c5a0d39ddf_08_cargoprations.pdf
 file_size: 8822806
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

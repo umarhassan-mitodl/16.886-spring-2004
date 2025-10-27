@@ -4,8 +4,6 @@ description: Guest lecture presentation courtesy of Al Haggerty. Used with permi
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/1a7a3be1a1a5e67a169669dccbb3b112_08_cargopration1.pdf
 file_size: 2889678
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: A student's oral presentation.
 file: /courses/16-886-air-transportation-systems-architecting-spring-2004/96845ec254f4ccd844c8b2e9a298a656_Wong_rev.pdf
 file_size: 75684
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
