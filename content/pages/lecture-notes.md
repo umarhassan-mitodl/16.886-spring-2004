@@ -142,7 +142,7 @@ Human Factors for Formation Flying ({{% resource_link "2dfae218-f8b0-b6ae-e335-c
 Prof. Missy Cummings   
 MIT ({{% resource_link "e3d048fc-d365-1ea1-9233-1c25b5705856" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
-NASA Dryden Flight Research Center Movie Collection: [Automated Aerial Refueling (AAR)](https://web.archive.org/web/20220925232106/https://www.nasa.gov/centers/dryden/news/ResearchUpdate/AAR/), [Autonomous Formation Flight (AAF)](https://web.archive.org/web/20100325023803/https://www.nasa.gov/centers/dryden/history/pastprojects/AFF/index.html)
+NASA Dryden Flight Research Center Movie Collection: {{% resource_link "2ea7ef0b-da75-4db8-a7dc-95a29bbbb439" "Automated Aerial Refueling (AAR)" %}}, {{% resource_link "5b7dbb50-cefb-4c95-8bae-c37b5860d1cf" "Autonomous Formation Flight (AAF)" %}}
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 LE13
 {{< tdclose >}}{{< tdopen >}}
